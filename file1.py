@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-myfile = "file2.txt"
+myfile = "file1.txt"
 
 try:
     file = open(myfile, 'r')
